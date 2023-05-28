@@ -7,7 +7,6 @@
 To write the python program for simulating ping command.
 
 ## ALGORITHM :
-
 1: Start the program.
 2: Include necessary package in java.
 3: To create a process object p to implement the ping command.
