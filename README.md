@@ -18,8 +18,8 @@ Step 6: print the results. Step 7: Stop the program.
 
 ## PROGRAM :
 ## CLIENT :
-# Developed By : SUBALAKSHMI V
-# Register Number : 212222040162
+Developed By : SUBALAKSHMI V
+Register Number : 212222040162
 ```
 import socket
 from pythonping import ping
@@ -35,8 +35,8 @@ while True:
         c.send("Not Found".encode())
 ```
 ## SERVER :
-# Developed By : SUBALAKSHMI V
-# Register Number : 212222040162
+Developed By : SUBALAKSHMI V
+Register Number : 212222040162
 ```
 import socket
 s=socket.socket()
