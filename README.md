@@ -4,6 +4,7 @@
 12-04-2023
 ## AIM :
 To write the python program for simulating ping command.
+
 ## ALGORITHM :
 
 Step 1: start the program.
